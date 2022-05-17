@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yoklama_Sistemi", "Yoklama_Sistemi.csproj", "{DBD2C348-8673-4848-B08C-903C22B28ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD2C348-8673-4848-B08C-903C22B28ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD2C348-8673-4848-B08C-903C22B28ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD2C348-8673-4848-B08C-903C22B28ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD2C348-8673-4848-B08C-903C22B28ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C31C32F9-6695-406A-A4A5-97E4BB31C56D}
+	EndGlobalSection
+EndGlobal

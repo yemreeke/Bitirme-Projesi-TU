@@ -1,0 +1,46 @@
+﻿<Window x:Class="Yoklama_Sistemi.AnaEkran"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Yoklama_Sistemi"
+        mc:Ignorable="d"
+        Title="Yoklama Sistemi " Height="544" Width="806"
+        ResizeMode="NoResize"
+        >
+
+    <Grid>
+        <Button x:Name="BtnOgrenciİceAktar" Content="Öğrencileri İçe Aktar" HorizontalAlignment="Left" Height="30" Margin="553,13,0,0" VerticalAlignment="Top" Width="223" Click="BtnOgrenciİceAktar_Click" FontWeight="Bold" />
+        <ComboBox x:Name="comboBoxPort" HorizontalAlignment="Left" Margin="65,60,0,0" VerticalAlignment="Top" Width="100" Height="30" FontSize="16"/>
+        <Label Content="Port" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="btnPortBaglan" Content="Bağlan" HorizontalAlignment="Left" Height="30" Margin="170,60,0,0" VerticalAlignment="Top" Width="120" Click="portBaglantiButon_Click" FontWeight="Bold" FontSize="14"/>
+        <Button x:Name="btnSistemBaslat" Content="Sistemi Başlat" HorizontalAlignment="Left" Margin="18,134,0,0" VerticalAlignment="Top" Height="35" Width="130" Click="btnSistemBaslat_Click" FontSize="15" IsEnabled="False"/>
+        <Button x:Name="btnSistemDurdur" Content="Sistemi Durdur" HorizontalAlignment="Left" Height="35" Margin="160,134,0,0" VerticalAlignment="Top" Width="130" FontSize="15" Click="btnSistemDurdur_Click" IsEnabled="False"/>
+        <Label x:Name="path" Content="Derse Gelenler" HorizontalAlignment="Left" Margin="343,44,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="20" Height="34"/>
+        <GroupBox Header="Son Okuma" Margin="19,277,517,0" AllowDrop="True" Height="161" VerticalAlignment="Top">
+            <Image x:Name="ImageSonOkuma" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Source="/default.png"/>
+        </GroupBox>
+        <Label Content="Ad :" Margin="132,308,622,0" VerticalAlignment="Top" Height="25"/>
+        <Label x:Name="labelSonOkumaAd" Content="" HorizontalAlignment="Left" Margin="167,308,0,0" VerticalAlignment="Top" Height="25"/>
+        <Label Content="Soyad:" Margin="131,339,610,0" VerticalAlignment="Top" Height="25"/>
+        <Label x:Name="labelSonOkumaSoyad" Content="" HorizontalAlignment="Left" Margin="172,339,0,0" VerticalAlignment="Top" Height="25"/>
+        <Label x:Name="labelSonOkumaNo" Content="" Margin="184,367,524,0" VerticalAlignment="Top" Height="25"/>
+        <Label Content="Giriş Tarihi :" Margin="39,400,658,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelSonOkumaTarih" Content="" Margin="119,400,530,0" VerticalAlignment="Top"/>
+        <Label Content="Numara:" Margin="131,366,602,0" VerticalAlignment="Top" Height="25"/>
+        <Label x:Name="path_Copy2" Content="Sistem Durumu :" HorizontalAlignment="Left" Margin="66,0,0,0" VerticalAlignment="Center" FontWeight="Bold" FontSize="15"/>
+        <Label x:Name="lblSistemDurumu" Content="PASİF" HorizontalAlignment="Left" Margin="198,0,0,0" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Foreground="Red"/>
+        <ListBox x:Name="listBoxOgrGiris" HorizontalAlignment="Left" Height="362" Margin="306,76,0,0" VerticalAlignment="Top" Width="223" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <ListBox x:Name="listBoxOgrKayitli" HorizontalAlignment="Left" Height="362" Margin="553,76,0,0" VerticalAlignment="Top" Width="223" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <Label x:Name="path_Copy11" Content="Tüm Öğrenciler" HorizontalAlignment="Left" Margin="582,43,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="20"/>
+        <Label x:Name="lblComPortBilgi" Content="COM PORT BAĞLI DEĞİL" HorizontalAlignment="Left" Margin="24,95,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Foreground="Red"/>
+        <Button x:Name="BtnYoklamaAlKaydet" Content="Yoklama Al Ve Kaydet" HorizontalAlignment="Left" Margin="306,15,0,0" VerticalAlignment="Top" Height="30" Width="223" FontWeight="Bold" Click="BtnYoklamaAlKaydet_Click" IsEnabled="False"/>
+        <Label Content="Ders Kodu" HorizontalAlignment="Left" Margin="10,13,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="20"/>
+        <TextBox x:Name="TextBoxDersKodu" HorizontalAlignment="Left" Margin="130,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" FontSize="16" Height="30"/>
+        <StackPanel Margin="23,182,516,275">
+            <RadioButton x:Name="RB_SadeceGiris" Content="Sadece Girişe İzin Ver" Checked="RB_SadeceGiris_Checked" IsChecked="True"/>
+            <RadioButton x:Name="RB_SadeceCikis" Content="Sadece Çıkışa İzin Ver" Checked="RB_SadeceCikis_Checked"/>
+            <RadioButton x:Name="RB_HicBirSey" Content="Hiç Bir Şeye İzin Verme" Checked="RB_HicBirSey_Checked"/>
+        </StackPanel>
+    </Grid>
+</Window>

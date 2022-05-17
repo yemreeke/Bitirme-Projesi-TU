@@ -1,0 +1,24 @@
+﻿<Window x:Class="Yoklama_Sistemi.KullaniciBilgileri"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Yoklama_Sistemi"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        Title="Kullanıcı Bilgileri" Height="209" Width="424"
+        >
+    <Grid>
+        <!--
+        -->
+        <GroupBox Header="Kullanıcı Bilgileri&#xD;&#xA;" Margin="4,5,0,0" AllowDrop="True" Height="161" VerticalAlignment="Top" HorizontalAlignment="Left" Width="398"/>
+        <Image x:Name="profilFotografi" HorizontalAlignment="Left" Height="119" Margin="20,35,0,0" VerticalAlignment="Top" Width="120" Source="/default.png" />
+        <Label x:Name="labelAd"  Content="Ad" HorizontalAlignment="Left" Margin="223,38,0,0" VerticalAlignment="Top" Height="32" FontWeight="Bold" FontSize="16" Width="96"/>
+        <Label Content="Numara:" Margin="148,108,187,0" VerticalAlignment="Top" Height="43" FontWeight="Bold" FontSize="16"/>
+        <Label Content="Ad :" Margin="183,38,161,0" VerticalAlignment="Top" Height="37" FontWeight="Bold" FontSize="16"/>
+        <Label Content="Soyad:" Margin="162,73,186,0" VerticalAlignment="Top" Height="46" FontWeight="Bold" FontSize="16"/>
+        <Label x:Name="labelSoyad" Content="Soyad" HorizontalAlignment="Left" Margin="223,74,0,0" VerticalAlignment="Top" Height="34" FontWeight="Bold" FontSize="16" Width="96"/>
+        <Label x:Name="labelNumara" Content="0000000000" Margin="223,108,86,0" VerticalAlignment="Top" Height="33" FontWeight="Bold" FontSize="16"/>
+
+    </Grid>
+</Window>

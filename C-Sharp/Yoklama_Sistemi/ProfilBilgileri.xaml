@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="Yoklama_Sistemi.ProfilBilgileri"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Yoklama_Sistemi"
+             mc:Ignorable="d" Height="39" Width="190"
+             MouseDoubleClick="UserControl_MouseDoubleClick" >
+    <Grid >
+        <Label x:Name="labelAd"  HorizontalAlignment="Left" Height="28" Margin="38,0,0,0" VerticalAlignment="Center" Width="149" Content="XXXXX XXXXX XXXXXXX"/>
+        <Image x:Name="resim" HorizontalAlignment="Left" Width="30" Margin="4,4,0,5"  Source="/default.png"/>
+    </Grid>
+</UserControl>

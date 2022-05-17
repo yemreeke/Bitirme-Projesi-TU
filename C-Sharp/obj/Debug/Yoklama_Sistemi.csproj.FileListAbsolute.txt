@@ -1,0 +1,50 @@
+C:\Users\Emre\source\repos\Yoklama_Sistemi\bin\Debug\Yoklama_Sistemi.exe.config
+C:\Users\Emre\source\repos\Yoklama_Sistemi\bin\Debug\Yoklama_Sistemi.exe
+C:\Users\Emre\source\repos\Yoklama_Sistemi\bin\Debug\Yoklama_Sistemi.pdb
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\MainWindow.g.cs
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\App.g.cs
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi_MarkupCompile.cache
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi_MarkupCompile.lref
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\MainWindow.baml
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.g.resources
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.Properties.Resources.resources
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.exe
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.pdb
+C:\Users\Emre\source\repos\Yoklama_Sistemi\bin\Debug\System.CodeDom.dll
+C:\Users\Emre\source\repos\Yoklama_Sistemi\bin\Debug\System.CodeDom.xml
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.csproj.CopyComplete
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Window1.g.cs
+C:\Users\Emre\source\repos\Yoklama_Sistemi\obj\Debug\Window1.baml
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\bin\Debug\Yoklama_Sistemi.exe.config
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\bin\Debug\Yoklama_Sistemi.exe
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\bin\Debug\Yoklama_Sistemi.pdb
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\bin\Debug\System.CodeDom.dll
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\bin\Debug\System.CodeDom.xml
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.csproj.AssemblyReference.cache
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\App.g.cs
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi_MarkupCompile.cache
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi_MarkupCompile.lref
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.g.resources
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.Properties.Resources.resources
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.csproj.GenerateResource.cache
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.csproj.CopyComplete
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.exe
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.pdb
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\ProfilBilgileri.g.cs
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\ProfilBilgileri.baml
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\GirisEkrani.g.cs
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\GirisEkrani.baml
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\AnaEkran.g.cs
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\AnaEkran.baml
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\KullaniciBilgileri.g.cs
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\KullaniciBilgileri.baml
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\bin\Debug\Yoklama_Sistemi.exe.manifest
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\bin\Debug\Yoklama_Sistemi.application
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.exe.manifest
+C:\Users\Emre\Documents\Visual Studio 2022\Yoklama_Sistemi\obj\Debug\Yoklama_Sistemi.application

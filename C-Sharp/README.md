@@ -4,7 +4,6 @@
 ![alt text](/C-Sharp/EkranGoruntuleri/3.png) 
 ![alt text](/C-Sharp/EkranGoruntuleri/4.png) 
 ![alt text](/C-Sharp/EkranGoruntuleri/5.png) 
-
 ![alt text](/C-Sharp/EkranGoruntuleri/6.png) 
 ![alt text](/C-Sharp/EkranGoruntuleri/7.png)
 ![alt text](/C-Sharp/EkranGoruntuleri/8.png) 
@@ -16,3 +15,8 @@
 ![alt text](/C-Sharp/EkranGoruntuleri/14.png) 
 ![alt text](/C-Sharp/EkranGoruntuleri/15.png) 
 ![alt text](/C-Sharp/EkranGoruntuleri/16.png) 
+![alt text](/C-Sharp/EkranGoruntuleri/17.png) 
+![alt text](/C-Sharp/EkranGoruntuleri/18.png) 
+![alt text](/C-Sharp/EkranGoruntuleri/19.png) 
+![alt text](/C-Sharp/EkranGoruntuleri/20.png) 
+![alt text](/C-Sharp/EkranGoruntuleri/21.png) 
